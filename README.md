@@ -8,7 +8,10 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1IoWiU4754FCF0ErN2YJbPUVi25BWonGa/view?usp=sharing" alt="project-screenshot" width="500px" height="700px/">
+
+<img src="https://i.ibb.co/0Z4Khnr/News-App-Screen-Shot.jpg" alt="News-App-Screen-Shot" border="0">
+
+  
 
   
   
